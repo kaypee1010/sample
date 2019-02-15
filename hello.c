@@ -4,7 +4,7 @@
 
 	printf("Hello");
 	int x;
-	int y;
+
 
 }
 
